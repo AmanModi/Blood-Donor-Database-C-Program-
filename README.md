@@ -1,0 +1,9 @@
+# Blood-Donor-Database-C-Program-
+Blood Donor Database is a programin which details of blood donor’s is stored. It's created using C Language and uses files to store the data of the users. I created this program as a part of the project that was assigned to me and my team in my first year of College.
+
+Blood Donor Database is a database in which details of blood donor’s is stored. With reference to our present we sometime come across a situation where we need blood. In such emergency conditions blood donor database becomes really handy. It stores name, age, phone number, address, email id and blood group of the Donor’s. The best thing about this database is that it allows a three way searching. The user can find the details of Donor’s either on Blood group basis, or City basis or on the basis of their Id. This is really handy in some situations. Ultimately it gives the user a freedom of searching by any method. While making this project I and my team wanted to make it user friendly so we also included a function by which the user can calculate the amount of money that should be paid to the donor.
+
+Technical Details
+
+This project uses Structures. File handling is also used. In this project we have used many built in function but we also have created some user defined functions as well.Header files like ‘dos.h’ , ’conio.h’ , ’stdio.h’ , ’string.h’, are used. We also have used the exit(); function for termination of program wherever we want. All the user defined function have their return type as ‘void’. We also have used the delay function().Basically the program takes input from the user and stores it in the file. We then can access those files and search for the details we want. To understand the coding, a basic knowledge of File Handling and Data structure is required.
+
